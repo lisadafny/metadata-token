@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "description": "Cat with wings", 
+    "external_url": "https://en.wikipedia.org/wiki/Winged_cat", 
+    "image": "https://img.freepik.com/premium-photo/angel-cat-with-wings-high-quality-illustration_763713-718.jpg?w=826", 
+    "name": "KittyCat",
+    "attributes": [{
+        "trait_type": "Wings", 
+        "value": "Yes"
+      }, 
+      {
+        "trait_type": "Cat", 
+        "value": "Yes"
+      }]
+  }
